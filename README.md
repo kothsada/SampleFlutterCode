@@ -30,7 +30,7 @@ return Scaffold(
 Card(
 elevation: 8.0,
 shape: RoundedRectangleBorder(
-borderRadius: const BorderRadius.all(40),
+borderRadius: const BorderRadius.all(Radius.circular(20.0)),
 ),
 child: Icon(Icons.home)
 
