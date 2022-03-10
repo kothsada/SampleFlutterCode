@@ -35,3 +35,5 @@ borderRadius: const BorderRadius.all(40),
 child: Icon(Icons.home)
 
 ```
+<img width="477" alt="Screenshot 2022-03-10 at 11 12 13" src="https://user-images.githubusercontent.com/863760/157587247-674034bb-3d8b-40a3-b7fd-a89db9a1ffcf.png">
+
