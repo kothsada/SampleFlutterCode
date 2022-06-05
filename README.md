@@ -1,4 +1,7 @@
 # SampleFlutterCode
+
+
+<img width="341" alt="Screenshot 2022-02-27 at 18 47 37" src="https://user-images.githubusercontent.com/863760/155881147-71875fc5-c8fe-4e90-a955-9ceece28ff64.png">
 ```dart
 return Scaffold(
       body: AnnotatedRegion<SystemUiOverlayStyle>(
@@ -22,8 +25,9 @@ return Scaffold(
     );
 ```
 
-<img width="341" alt="Screenshot 2022-02-27 at 18 47 37" src="https://user-images.githubusercontent.com/863760/155881147-71875fc5-c8fe-4e90-a955-9ceece28ff64.png">
 
+
+<img width="477" alt="Screenshot 2022-03-10 at 11 12 13" src="https://user-images.githubusercontent.com/863760/157587247-674034bb-3d8b-40a3-b7fd-a89db9a1ffcf.png">
 
 ```dart
 
@@ -35,9 +39,11 @@ borderRadius: const BorderRadius.all(40),
 child: Icon(Icons.home)
 
 ```
-<img width="477" alt="Screenshot 2022-03-10 at 11 12 13" src="https://user-images.githubusercontent.com/863760/157587247-674034bb-3d8b-40a3-b7fd-a89db9a1ffcf.png">
 
 
+
+
+<img width="344" alt="Screenshot 2022-06-05 at 16 15 34" src="https://user-images.githubusercontent.com/863760/172043782-ec11ce15-70c2-4bff-958b-524c787f06d6.png">
 
 ```dart
 import 'package:flutter/material.dart';
@@ -177,5 +183,5 @@ class NumericPad extends StatelessWidget {
 
 ````
 
-<img width="344" alt="Screenshot 2022-06-05 at 16 15 34" src="https://user-images.githubusercontent.com/863760/172043782-ec11ce15-70c2-4bff-958b-524c787f06d6.png">
+
 
